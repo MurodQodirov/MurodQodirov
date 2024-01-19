@@ -1,5 +1,4 @@
-- 👋 Hi, I’m MurodQodirov
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning English
-- 🔹 I live in Uzbekistan
-- 📫 Contact me phone: +998 91 100 32 05 telegram: murod2x
+- 👋 Hi, I’m Murod Qodirov
+- 🌱 English level C1
+- 🔹 Technology Stack PHP Laravel
+- 📫 Contact me phone: +998 91 100 32 05 linkidin: Murod Qodirov
