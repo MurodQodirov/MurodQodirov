@@ -2,5 +2,6 @@
 - 🌱 English level - C1
 - 🔹 Technology Stack - LAMP
 - 📫 Contact me 
-      - phone: +998 91 100 32 05 
-      - linkidin: Murod Qodirov
+      - instagram: kadirov.murod1
+      - telegram: murod2x
+      - linkidin: murod-qodirov
