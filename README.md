@@ -1,7 +1,3 @@
 - 👋 Hi, I’m Murod Qodirov
 - 🌱 English level - C1
-- 🔹 Technology Stack - LAMP
-- 📫 Contact me 
-      - instagram: kadirov.murod1
-      - telegram: murod2x
-      - linkidin: murod-qodirov
+- 🔹 Technology Stack - LAMP (php, laravel)
